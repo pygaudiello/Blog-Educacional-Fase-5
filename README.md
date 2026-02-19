@@ -230,6 +230,16 @@ Abaixo estão algumas imagens que ilustram o funcionamento da aplicação mobile
 - Visualização de post
 <img width="1360" height="850" alt="image" src="https://github.com/user-attachments/assets/2dbd0a6c-e230-43d0-bfff-2ffe060aa027" />
 
+- Visualização de post com Quiz, visão do Professor, com informativo de quantidade de respostas em cada questão
+<img width="1907" height="891" alt="image" src="https://github.com/user-attachments/assets/f215a9bf-e654-4252-8a90-b6be77d39484" />
+
+-  Visualização de post com Quiz, visão do Aluno que não respondeu
+<img width="1895" height="894" alt="image" src="https://github.com/user-attachments/assets/84d3d6d1-a072-4d4b-b33a-bec4a5a605c5" />
+
+-  Visualização de post com Quiz, visão do Aluno que respondeu
+<img width="1915" height="899" alt="image" src="https://github.com/user-attachments/assets/3a2e4835-86f3-4f3b-aea5-1a8662db2686" />
+
+
 - Criação e exclusão de comentários
 <img width="1315" height="582" alt="image" src="https://github.com/user-attachments/assets/18e0843e-6562-4b91-aaa0-e879f5849339" />
 
