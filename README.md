@@ -239,16 +239,19 @@ Abaixo estão algumas imagens que ilustram o funcionamento da aplicação mobile
 -  Visualização de post com Quiz, visão do Aluno que respondeu
 <img width="1915" height="899" alt="image" src="https://github.com/user-attachments/assets/3a2e4835-86f3-4f3b-aea5-1a8662db2686" />
 
-
 - Criação e exclusão de comentários
 <img width="1315" height="582" alt="image" src="https://github.com/user-attachments/assets/18e0843e-6562-4b91-aaa0-e879f5849339" />
 
-- Funcionalidade específica do perfil de professor - Criação de post
-<img width="420" height="327" alt="image" src="https://github.com/user-attachments/assets/2c0000e8-a765-4cf5-820d-e02488ed0859" />
+- Funcionalidade específica do perfil de professor - Criação de post com quiz
+<img width="383" height="367" alt="image" src="https://github.com/user-attachments/assets/c8dc6207-4f2e-44da-b817-1f6274efb584" />
+<img width="357" height="850" alt="image" src="https://github.com/user-attachments/assets/8d21ecce-e929-4370-823d-c9a975568f9e" />
 
 - Funcionalidade específica do perfil de professor - Listagem da edição de post e edição de post com botão de exclusão selecionado
 <img width="1373" height="582" alt="image" src="https://github.com/user-attachments/assets/b3b981c4-1170-47d1-9562-2d0d862b20bb" />
 <img width="582" height="710" alt="image" src="https://github.com/user-attachments/assets/6cff0d25-e75c-40c3-9b49-30a1e43e2cdb" />
+
+- Funcionalidade específica do perfil de professor - Edição de post com quiz
+<img width="428" height="866" alt="image" src="https://github.com/user-attachments/assets/21515d76-eae0-466d-81f1-7e5ef3d27dc4" />
 
 - Funcionalidade específica do perfil de professor - Listagem do gerenciamento de professores, criação de um novo cadastro de professor e edição de professores
 <img width="1368" height="624" alt="image" src="https://github.com/user-attachments/assets/3ecf78fa-84c9-42e6-a8fd-24838b52a8a1" />
