@@ -1,0 +1,95 @@
+/* Home.module.css */
+
+.search {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px auto;
+  width: 90%;
+  max-width: 700px;
+  text-align: center;
+}
+
+.search h1 {
+  font-size: 2.2rem;
+  margin-bottom: 16px;
+  color: #222;
+  font-weight: 700;
+}
+
+.search input {
+  width: 100%;
+  max-width: 500px;
+  padding: 12px 16px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+  background-color: #fff;
+}
+
+.search input:focus {
+  outline: none;
+  border-color: #0078ff;
+  box-shadow: 0 0 0 3px rgba(0, 120, 255, 0.15);
+}
+
+article {
+  background: #fff;
+  margin: 20px auto;
+  padding: 20px 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  width: 90%;
+  max-width: 700px;
+}
+
+article:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+}
+
+article h2 {
+  margin-bottom: 8px;
+  font-size: 1.4rem;
+  color: #0078ff;
+}
+
+article h2 a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+article h2 a:hover {
+  color: #005fcc;
+}
+
+article p {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Mensagens de carregamento ou vazio */
+p {
+  text-align: center;
+  color: #666;
+  margin-top: 30px;
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+  .search h1 {
+    font-size: 1.8rem;
+  }
+
+  article {
+    padding: 16px 18px;
+  }
+
+  article h2 {
+    font-size: 1.2rem;
+  }
+}

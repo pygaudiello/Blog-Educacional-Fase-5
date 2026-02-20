@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 80px;
+    padding: 20px 40px;
+    background-color: rgb(104, 181, 204);
+    height: 100%;
+}
+
+.navbar h1{
+    color: #fff;
+    text-shadow: 3px 3px 3px #000;
+}
+
+.navbar ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    list-style: none;
+}
+
+.navbar ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover{
+    color: #4382ac;
+}
